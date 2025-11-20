@@ -13,15 +13,24 @@ One-hot encoding of location using a saved location encoder
 Real-time prediction of house price in ₹ Lakhs
 
 📂 Project Structure
+
 .
 ├── app.py                      # Streamlit app
+
 ├── banglore_home_prices_model.pkl
+
 ├── location_encoder.pkl
+
 ├── column_transformer.pkl
+
 ├── columns.json                # List of feature/column names
+
 ├── Bengaluru_House_Data.csv    # Original/raw dataset
+
 ├── d8_dataset.csv              # Processed/cleaned dataset (if used)
+
 ├── RealEstatePridiction.ipynb  # Model training & experimentation
+
 └── requirements.txt            # Python dependencies
 
 🧠 Model & Data
